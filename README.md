@@ -1,58 +1,49 @@
-# **PROJECT  I** LostSoul
-
+<div align="center">
+  <img alt="thebookmonster" src="https://instagram.fzag2-1.fna.fbcdn.net/vp/99bdcf1363a3a11d8d7bf0a4900466f8/5D3E4648/t51.2885-19/s150x150/41679784_269355387030430_6625687735044669440_n.jpg?_nc_ht=instagram.fzag2-1.fna.fbcdn.net" width="150" style="border-radius: 50%" />
+</div>
+<h1 align="center">
+  PROJECT I thebookmonster
+</h1>
 
 ## Project scope
 
-1. Build three pages in croatian only
-   - Home - Početna 
-   - Blog 
-   - About - O autorici 
- 
-2. Content - provided by client
-   - Home : landing page 
-   - Blog : blogging section for book reviews 
-   - About : a few words about the author
+1. Create five pages in Croatian only
 
-3. Design - in cooperation with client 
-     > Inspiration primarily comes from vintage design  
-     
-     - Colors
-     - Logo
-     - Fonts 
-     - Website design
+   - Home - Početna
+   - Reviews - Recenzije
+   - Blog
+   - Movies & TV shows - Filmovi & serije
+   - About - O autorici
+
+2. Content - provided by client
+
+   - Home :
+     - featured content including
+     - goodreads section
+     - book review posts in grid view
+     - about section
+     - footer with instagram feed
+   - Reviews : book reviews
+     - to be detailed
+   - Blog : general blog with various content
+     - to be detailed
+   - Movies & TV shows
+     - to be detailed
+   - About : a few words about the author
+     - to be detailed
+
+3. Design - in cooperation with client
+
+   - Colors
+   - Logo
+   - Fonts
+   - Website design
 
 4. Technologies considered for use
-   - [Hugo](https://gohugo.io/) : content management
-   - [Netlify](https://www.netlify.com/) : publishing & continous delpoyment
-   
+
+   - [Gatsby](https://www.gatsbyjs.org/) : frontend
+   - [Netlify](https://www.netlify.com/) : content management
+
 5. Publishing
-   - Buy a domain name 
+   - Buy a domain name
    - Hosting and deploying with GitHub & Netlify
-
-
-## Development
-
-
-### Project management  
-
-Set up [Trello project board](https://trello.com/b/STEYr582) for identifying goals, components, tests and for tracking progress.
-
-
-### Development environment  
-
-[placeholder] 
-
-### Git versioning
-
-**Commit message format**
-
-**type**[scope]: *subject*
-
-Allowed **type**
-
-* **fix** - fix broken code
-* **refactor** - improving code
-* **mod** - add, change, remove file
-* **docs** - comment code, documentation
-* **unit** - a working feature or functionality
-* **style** - formatting, code clarity, visual improvements
