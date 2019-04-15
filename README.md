@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="border-radius: 50%">
   <img alt="thebookmonster" src="https://instagram.fzag2-1.fna.fbcdn.net/vp/99bdcf1363a3a11d8d7bf0a4900466f8/5D3E4648/t51.2885-19/s150x150/41679784_269355387030430_6625687735044669440_n.jpg?_nc_ht=instagram.fzag2-1.fna.fbcdn.net" width="150" style="border-radius: 50%" />
 </div>
 <h1 align="center">
@@ -18,7 +18,7 @@
 2. Content - provided by client
 
    - Home :
-     - featured content including
+     - featured content
      - goodreads section
      - book review posts in grid view
      - about section
